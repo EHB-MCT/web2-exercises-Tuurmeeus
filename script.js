@@ -1,4 +1,5 @@
 'use strict';
+import team from './teams';
 
 let list = [];
 let pokemon = [];
